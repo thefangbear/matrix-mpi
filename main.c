@@ -14,7 +14,7 @@
 
 #define traditional
 //#define async
-#define doVerify
+//#define doVerify
 double *A, *B, *C;
 const static double eps = 0.000000001;
 
